@@ -9,7 +9,7 @@
 
 [Link 3](/kaggle/input/my-dataset/my_dataset/00-damage1)
 
-[Link 4](https://www.kaggle.com/datasets/humansintheloop/car-parts-and-car-damages))
+[Link 4](https://www.kaggle.com/datasets/humansintheloop/car-parts-and-car-damages)
 
 
 **Car**
